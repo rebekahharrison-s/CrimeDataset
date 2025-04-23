@@ -1,7 +1,3 @@
-Certainly! Here is the 'README' section written in UK English:
-
----
-
 # Crime Data Analysis - Montgomery County
 
 This repository contains a comprehensive analysis of crime data in Montgomery County, Maryland, sourced from Kaggle's National Incident-Based Reporting System (NIBRS) dataset. The analysis aims to uncover key crime patterns, trends, and insights, using data from 2018 to 2022. The findings are intended to guide law enforcement strategies, optimise resource allocation, and improve community safety.
